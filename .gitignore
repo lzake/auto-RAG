@@ -120,7 +120,3 @@ venv.bak/
 
 # Visual Studio Code
 .vscode/
-
-# Project specific
-uploaded_files/
-.env
